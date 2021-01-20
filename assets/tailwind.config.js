@@ -6,9 +6,12 @@ module.exports = {
     content: [
       './*.html',
     ],
-  },  
+  },
   darkMode: 'media',
   theme: {
+    fontSize: {
+      '5xl': '3rem'
+    },
     extend: {
       colors: {
         'light-blue': colors.lightBlue,
