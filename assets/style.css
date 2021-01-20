@@ -396,7 +396,12 @@ video {
 }
 
 .text-5xl {
-	font-size: 2rem;
+	font-size: 2.5rem;
+	line-height: 1
+}
+
+.text-4xl {
+	font-size: 1.25rem;
 	line-height: 1
 }
 
